@@ -7,4 +7,4 @@
  
 </div>
 
-![Doffy GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridbrasil&show_icons=true&theme=radical&count_private=true)
+![ingridbrasil GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridbrasil&show_icons=true&theme=radical&count_private=true)
