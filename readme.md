@@ -10,5 +10,5 @@
 ![ingridbrasil GitHub stats](https://github-readme-stats.vercel.app/api?username=ingridbrasil&show_icons=true&theme=radical&count_private=true)
 
  <h2>Sobre mim🥇</h2>
-        <p>Eu sou um estudante de Matemática Aplicada e Computacional apaixonado por resolver problemas e criar soluções utilizando programação.</p>
+        <p>Eu sou uma estudante de Análise e Desenvolvimento de Sistemas apaixonada por criação de sites utilizando programação.</p>
         <p>Meus principais interesses estão na interseção entre matemática e computação, e estou sempre buscando maneiras de aplicar meus conhecimentos em C++ e Python para resolver desafios do mundo real. além de estar em constante aprimoramento aprendendo outras Linguagens e jeitos de inovar</p>
