@@ -11,4 +11,4 @@
 
  <h2>Sobre mim🥇</h2>
         <p>Eu sou uma estudante de Análise e Desenvolvimento de Sistemas apaixonada por criação de sites utilizando programação.</p>
-        <p>Meus principais interesses estão na interseção entre matemática e computação, e estou sempre buscando maneiras de aplicar meus conhecimentos em C++ e Python para resolver desafios do mundo real. além de estar em constante aprimoramento aprendendo outras Linguagens e jeitos de inovar</p>
+        <p>Meus principais interesses estão entre a otimização e o Desenvolvimento Web, e estou sempre buscando me aperfeiçoar nas linguagens de programação como C para uso em meus trabalhos de faculdade. Além de estar em constante aprimoramento das minhas habilidades em HTML5, CSS3 e JavaScript.</p>
