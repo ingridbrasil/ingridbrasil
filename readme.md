@@ -25,7 +25,7 @@
         <p>Eu sou uma estudante de Análise e Desenvolvimento de Sistemas apaixonada por criação de sites utilizando programação.</p>
         <p>Meus principais interesses estão entre a otimização e o Desenvolvimento Web, e estou sempre buscando me aperfeiçoar nas linguagens de programação como C para uso em meus trabalhos de faculdade. Além de estar em constante aprimoramento das minhas habilidades em HTML5, CSS3 e JavaScript.</p>
 
-## Proficiente:
+## Proficiente: 😉
 
 <div style="display: inline_block">
 <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /
