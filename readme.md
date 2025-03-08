@@ -23,7 +23,7 @@
 
  <h2>Sobre mim: 🤩</h2>
         <p>Eu sou uma estudante de Análise e Desenvolvimento de Sistemas apaixonada por criação de sites utilizando programação.</p>
-        <p>Meus principais interesses estão entre a otimização e o Desenvolvimento Web, e estou sempre buscando me aperfeiçoar nas linguagens de programação como C para uso em meus trabalhos de faculdade. Além de estar em constante aprimoramento das minhas habilidades em HTML5, CSS3 e JavaScript.</p>
+        <p>Meus principais interesses estão entre a otimização e o Desenvolvimento Web, e estou sempre buscando me aperfeiçoar nas linguagens de programação como C para uso em meus trabalhos de faculdade. Além de estar em constante aprimoramento das minhas habilidades em HTML, CSS e JavaScript.</p>
 
 ## Proficiente: 😉
 
